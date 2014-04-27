@@ -34,6 +34,8 @@ Public Class frmTutorialViewer
         reader.ReadToFollowing("TutorialName")
         toReturn = reader.ReadElementContentAsString()
 
+        reader.Close()
+
         Return toReturn
     End Function
 
