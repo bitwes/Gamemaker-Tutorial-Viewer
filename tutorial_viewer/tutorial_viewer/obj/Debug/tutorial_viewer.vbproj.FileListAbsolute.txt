@@ -12,3 +12,17 @@ E:\butch\development\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\t
 E:\butch\development\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.application
 E:\butch\development\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.exe.manifest
 E:\butch\development\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.application
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.exe.config
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.exe
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.xml
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.pdb
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.exe.manifest
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.application
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.exe
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.pdb
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\bin\Debug\tutorial_viewer.xml
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.frmTutorialViewer.resources
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.Resources.resources
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.vbproj.GenerateResource.Cache
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.exe.manifest
+E:\butch\development\dotNet\tutorial_viewer\tutorial_viewer\tutorial_viewer\obj\Debug\tutorial_viewer.application
