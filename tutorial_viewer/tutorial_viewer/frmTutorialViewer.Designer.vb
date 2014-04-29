@@ -95,7 +95,7 @@ Partial Class frmTutorialViewer
         'lblCurPage
         '
         Me.lblCurPage.AutoSize = True
-        Me.lblCurPage.Location = New System.Drawing.Point(12, 53)
+        Me.lblCurPage.Location = New System.Drawing.Point(12, 677)
         Me.lblCurPage.Name = "lblCurPage"
         Me.lblCurPage.Size = New System.Drawing.Size(93, 13)
         Me.lblCurPage.TabIndex = 7

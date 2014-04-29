@@ -8,7 +8,6 @@ Public Class frmTutorialViewer
     Dim g_currentPage As Integer = 0
 
     Sub fillComboBoxFromSettings()
-
         cmbProjectDirectory.Items.Clear()
         For i As Integer = My.Settings.urls.Count - 1 To 0 Step -1
             cmbProjectDirectory.Items.Add(My.Settings.urls(i))
@@ -102,7 +101,7 @@ Public Class frmTutorialViewer
             btnBack.Enabled = False
         End If
 
-        If (g_currentPage >= g_tutorialPages.GetUpperBound(0)) Then
+        If (g_currentPage >= g_tutorialPages.Count) Then
             btnNext.Enabled = False
         End If
     End Sub
