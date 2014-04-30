@@ -10,3 +10,6 @@ Use the back and next buttons to navigate through the tutorial.
 
 #What it does
 Once it has a GameMaker diectory, it will open up the .project.gmx file and find where the tutorial is stored.  It then opens up all the HTML files in the Tutorial directory.
+
+#Install
+Get the installer from the releases tab.  The installer isn't super smart so you have to uninstall before installing a new version.  Sorry, but you'll lose your recently opened tutorials.
